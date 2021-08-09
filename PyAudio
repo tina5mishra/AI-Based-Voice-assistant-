@@ -1,0 +1,10 @@
+PyAudio:
+PyAudio provides python binding for portAudio the cross platform audio input library withpyaudio you can easily use python to play and record audio on avariety of platform 
+Here To recognize the voice of user and to understand it we have to download and install the play audio file .
+
+Download PyAudio from Python unofficial libraries
+ 
+Select and download according to your system need 
+ 
+Save it in same folder where main file is saved
+  
